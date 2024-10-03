@@ -1,6 +1,6 @@
 :root{
   --primary: #fff;
-  --bg-color: rgb(5, 53, 61);
+  --bg-color: #000;
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
   --envelope-cover: #e6cfa7;
@@ -26,7 +26,7 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url('bg.jpg');
+  background: url('img/bg.jpg');
   background-size: cover;
   background-position: center;
  
